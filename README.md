@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="AWS Community Builder" src="https://github.com/user-attachments/assets/d03f9ae6-0c01-43ab-9eac-a1c9fc323677" />
 
 # 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Cloud Engineer || DevOps Engineer || AWS Community Builder || Kafka Admin from India**
 
 Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
